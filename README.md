@@ -12,29 +12,6 @@ This Python script implements the Candidate Elimination algorithm to learn hypot
 
 4. Run the Python script:
 
-   ```bash
-   python script.py
-Certainly! Here's an example of a `README.md` file that describes your Python script and its functionality:
-
-```markdown
-# Candidate Elimination Algorithm
-
-This Python script implements the Candidate Elimination algorithm to learn hypotheses based on the provided data. The algorithm refines the set of hypotheses by considering positive and negative target outcomes.
-
-## Usage
-
-1. Download or clone this repository to your local machine.
-
-2. Place the "2ce.csv" file in the same directory as the script.
-
-3. Open a terminal or command prompt and navigate to the repository directory.
-
-4. Run the Python script:
-
-   ```bash
-   python script.py
-   ```
-
 ## About the Script
 
 The `script.py` script implements the Candidate Elimination algorithm on the "2ce.csv" dataset using the pandas library.
